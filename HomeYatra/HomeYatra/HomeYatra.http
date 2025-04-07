@@ -1,0 +1,6 @@
+@HomeYatra_HostAddress = http://localhost:5171
+
+GET {{HomeYatra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

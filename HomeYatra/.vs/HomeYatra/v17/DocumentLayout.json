@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HomeYatra\\API\\HomeYatra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\interfaces\\iaccountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\interfaces\\iaccountprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\models\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\models\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\viewmodels\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\viewmodels\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\interfaces\\imessageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\interfaces\\imessageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|d:\\homeyatra\\api\\homeyatra\\homeyatra\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAED9A0-0AA8-4852-A46F-5DECEF312C58}|HomeYatra\\HomeYatra.csproj|solutionrelative:homeyatra\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Dto\\Account.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Dto\\Account.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Dto\\Account.cs",
+              "RelativeToolTip": "HomeYatra\\Dto\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:59:40.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\ViewModels\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\ViewModels\\MessageResponse.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\ViewModels\\MessageResponse.cs",
+              "RelativeToolTip": "HomeYatra\\ViewModels\\MessageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:26:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageProvider.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Interfaces\\IMessageProvider.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Interfaces\\IMessageProvider.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Interfaces\\IMessageProvider.cs",
+              "RelativeToolTip": "HomeYatra\\Interfaces\\IMessageProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:23:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "HomeYatra\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:21:57.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageRequest.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Models\\MessageRequest.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Models\\MessageRequest.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Models\\MessageRequest.cs",
+              "RelativeToolTip": "HomeYatra\\Models\\MessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:19:21.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Services\\MessageService.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Services\\MessageService.cs",
+              "RelativeToolTip": "HomeYatra\\Services\\MessageService.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAADgv20AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:06:00.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Models\\Login.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Models\\Login.cs",
+              "RelativeToolTip": "HomeYatra\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:06:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAccountProvider.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Interfaces\\IAccountProvider.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Interfaces\\IAccountProvider.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Interfaces\\IAccountProvider.cs",
+              "RelativeToolTip": "HomeYatra\\Interfaces\\IAccountProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:06:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HomeYatra\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\HomeYatra\\API\\HomeYatra\\HomeYatra\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HomeYatra\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:05:47.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
